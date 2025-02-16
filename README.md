@@ -1,5 +1,8 @@
 # authusers
  Uso de redux
+
+
+ 
 🛠️ Instrucciones para iniciar el proyecto authusers en React desde GitHub
 1️⃣ Clonar el repositorio
 Abre tu terminal y ejecuta el siguiente comando para clonar el proyecto desde GitHub:
